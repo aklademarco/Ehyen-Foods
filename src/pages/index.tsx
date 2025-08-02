@@ -185,7 +185,7 @@ const Home: NextPage = () => {
     {
       name: "Kelewele And Kakro",
       description: "All in one natural spice for your Kelewele and Kakro",
-      image: "/images/keleweleSeasoning.jpg",
+      image: "/images/KeleweleSeasoning.jpg",
       origin: "Ehyen Foods",
       benefits: ["Iron-rich", "Digestive support", "Authentic taste"],
       organic: true,
